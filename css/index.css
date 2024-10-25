@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 230px;
+}
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 5%;
+}
+
+.imageAnimals {
+  display: flex;
+  border-width: thin;
+  border-style: solid;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 30px;
+}
